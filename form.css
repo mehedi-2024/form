@@ -1,0 +1,54 @@
+body{
+    margin:0px;
+    paddimg:0px;
+    background-image:linear-gradient(to right,rgb(40, 162, 184),rgb(135, 47, 170)) ;
+}
+.container{
+    max-width: 400px;
+    height: 500px;
+    background-color: aliceblue;
+    margin:0 auto;
+}
+h1{
+    text-align: center;
+    margin-top: 50%;
+    padding-top: 30px;
+}
+input{
+    width:85%;
+    height:30px;
+    margin-left:20px;
+    align:center;
+}
+label{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.i1,.i2{
+    margin-bottom: 20px;
+}
+.a a{
+    margin-left: 20px;
+    text-decoration: none;
+    margin-top: 20px;
+    padding-top:20px;
+}
+.submit{
+    height:40px;
+    border:0px;
+    padding:0px;
+    color:aliceblue;
+    font-size: 20px;
+    
+    background-image: linear-gradient(to right,rgb(25, 193, 235),rgb(142, 5, 160));
+}
+p{
+    text-align: center;
+    font-size: 15;
+}
+a{
+    
+    text-decoration: none;
+    font-size: 15;
+    
+}
